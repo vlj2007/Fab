@@ -1,3 +1,4 @@
+// Клиентский код
 public class Client {
     private Button button;
     private Checkbox checkbox;
